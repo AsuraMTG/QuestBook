@@ -1,0 +1,3 @@
+displayName = Quest Book
+author = Asura
+version = 0.1
